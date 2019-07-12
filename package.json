@@ -9,7 +9,7 @@
     "react-scripts": "3.0.1",
     "redux": "^4.0.2"
   },
-  "homepage": "",
+  "homepage": "https://a5595223.github.io/react-redux/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
